@@ -1,3 +1,5 @@
+In order for the server to work, you must change the path to the directory where your videos are stored. Formats supported: .avi, .mp4, and .mkv.
+
 **Run Server:**
 
 ```java Server.StreamServer 6666```
